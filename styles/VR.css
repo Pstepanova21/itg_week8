@@ -1,0 +1,36 @@
+a {
+  font-weight: 800;
+}
+h2 {
+  font-weight: 800;
+}
+h5 {
+  font-weight: 800;
+}
+.btn {
+  background-color: rgb(87, 32, 197);
+  color: white;
+  border-radius: 25px;
+}
+.title {
+  margin-top: 20%;
+}
+.person {
+  width: 50vw;
+}
+.buy {
+  font-weight: 800;
+  font-size: large;
+}
+.subscribe-form {
+  width: 25vw;
+  margin-top: 3%;
+  background-color: rgb(240, 105, 105);
+  color: white;
+}
+.nav-link {
+  color: gray;
+}
+footer {
+  margin: 10%;
+}
